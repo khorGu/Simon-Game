@@ -12,7 +12,7 @@ You Can see Web app ! :)
 <div align="center">
   <h3>
     <a href="https://khorgu.github.io/Simon-Game/ ">
-      Demo
+      Simon - Game Preview
     </a>
   </h3>
 </div>
